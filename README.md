@@ -1,2 +1,0 @@
-# PetShop
-Pet Shop Site
