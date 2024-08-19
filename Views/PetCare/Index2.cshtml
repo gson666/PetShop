@@ -1,0 +1,54 @@
+﻿@model List<PetSite.Models.Animal>
+
+<h1>The Best Pet Shop In Town</h1>
+<h2>Animal Catalog</h2>
+<title>Catalog Chart</title>
+<style>
+    table {
+        width: 100%;
+        border-collapse: collapse;
+    }
+
+    th, td {
+        border: 1px solid #dddddd;
+        text-align: left;
+        padding: 8px;
+    }
+
+    th {
+        background-color: #f2f2f2;
+    }
+
+    img {
+        max-width: 100px;
+    }
+</style>
+<form method="get">
+    <label for="category">Select a Category</label>
+    <select id="category" name="Choice">
+        <option value="1">Mammals</option>
+        <option value="2">Birds</option>
+        <option value="3">Fish</option>
+    </select>
+    <input type="submit" value="Filter">
+</form>
+<table>
+    <thead>
+        <tr>
+            <th>Portrait</th>
+            <th>Name</th>
+            <th>Find out more and comment</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var animal in Model)
+        {
+            <tr>
+                <td><img src="@animal.ImageUrl" alt="@animal.Name" /></td>
+                <td>@animal.Name</td>
+                <td><a asp-controller="PetCare" asp-action="Details" asp-route-id="@animal.AnimalId" class="btn btn-info">Details</a></td>
+            </tr>
+        }
+    </tbody>
+</table>
+

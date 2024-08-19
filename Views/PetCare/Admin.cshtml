@@ -1,0 +1,73 @@
+﻿@model List<Animal>
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>The Best Pet Shop In Town</title>
+
+    <style>
+        table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+
+        th, td {
+            border: 1px solid #dddddd;
+            text-align: left;
+            padding: 8px;
+        }
+
+        th {
+            background-color: #f2f2f2;
+        }
+
+        img {
+            max-width: 100px;
+        }
+    </style>
+</head>
+<body>
+    <h1>The Best Pet Shop In Town</h1>
+
+    <form method="get">
+        <label for="category">Select a Category</label>
+        <select id="category" name="Choice">
+            <option value="1">Mammals</option>
+            <option value="2">Birds</option>
+            <option value="3">Fish</option>
+            <option value ="4">All</option>
+        </select>
+        <input type="submit" value="Filter">
+    </form>
+
+   
+    
+    <a asp-controller="PetCare" asp-action="AddNew" class="btn btn-primary">Add New</a>
+    
+    <table>
+        <thead>
+            <tr>
+                <th>My Portrait</th>
+                <th>Name</th>
+                <th>Age</th>
+                <th>Description</th>
+                <th>To Edit</th>
+                <th>To Remove</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var a in Model)
+            {
+                <tr>
+                    <td><img src="@a.ImageUrl" alt="@a.AnimalId" /></td>
+                    <td>@a.Name</td>
+                    <td>@a.Age</td>
+                    <td>@a.Description</td>
+                    <td><a asp-controller="PetCare" asp-action="Edit" asp-route-id="@a.AnimalId" class="btn btn-info">Edit</a></td>
+                    <td><a asp-controller="PetCare" asp-action="Remove" asp-route-id="@a.AnimalId" class="btn btn-danger">Remove</a></td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</body>
+</html>

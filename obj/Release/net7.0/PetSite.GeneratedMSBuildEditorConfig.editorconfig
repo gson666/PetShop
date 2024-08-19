@@ -1,0 +1,75 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = PetSite
+build_property.RootNamespace = PetSite
+build_property.ProjectDir = C:\Users\BAR'S COMPUTER\Desktop\sela files\PetSite\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\BAR'S COMPUTER\Desktop\sela files\PetSite
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/BAR'S COMPUTER/Desktop/sela files/PetSite/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/BAR'S COMPUTER/Desktop/sela files/PetSite/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/BAR'S COMPUTER/Desktop/sela files/PetSite/Views/PetCare/AddNew.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGV0Q2FyZVxBZGROZXcuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/BAR'S COMPUTER/Desktop/sela files/PetSite/Views/PetCare/Admin.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGV0Q2FyZVxBZG1pbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/BAR'S COMPUTER/Desktop/sela files/PetSite/Views/PetCare/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGV0Q2FyZVxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/BAR'S COMPUTER/Desktop/sela files/PetSite/Views/PetCare/EditIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGV0Q2FyZVxFZGl0SW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/BAR'S COMPUTER/Desktop/sela files/PetSite/Views/PetCare/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGV0Q2FyZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/BAR'S COMPUTER/Desktop/sela files/PetSite/Views/PetCare/Index2.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGV0Q2FyZVxJbmRleDIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/BAR'S COMPUTER/Desktop/sela files/PetSite/Views/PetCare/Index3.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGV0Q2FyZVxJbmRleDMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/BAR'S COMPUTER/Desktop/sela files/PetSite/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/BAR'S COMPUTER/Desktop/sela files/PetSite/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/BAR'S COMPUTER/Desktop/sela files/PetSite/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/BAR'S COMPUTER/Desktop/sela files/PetSite/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/BAR'S COMPUTER/Desktop/sela files/PetSite/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-7p21ldvm6p

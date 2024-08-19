@@ -1,0 +1,324 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\BAR\u0027S COMPUTER\\Desktop\\sela files\\PetSite\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{12CF6F27-244B-4267-9B05-3857343CD607}|PetSite.csproj|C:\\Users\\BAR\u0027S COMPUTER\\Desktop\\sela files\\PetSite\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{12CF6F27-244B-4267-9B05-3857343CD607}|PetSite.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12CF6F27-244B-4267-9B05-3857343CD607}|PetSite.csproj|C:\\Users\\BAR\u0027S COMPUTER\\Desktop\\sela files\\PetSite\\views\\petcare\\admin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{12CF6F27-244B-4267-9B05-3857343CD607}|PetSite.csproj|solutionrelative:views\\petcare\\admin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12CF6F27-244B-4267-9B05-3857343CD607}|PetSite.csproj|C:\\Users\\BAR\u0027S COMPUTER\\Desktop\\sela files\\PetSite\\views\\petcare\\addnew.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{12CF6F27-244B-4267-9B05-3857343CD607}|PetSite.csproj|solutionrelative:views\\petcare\\addnew.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12CF6F27-244B-4267-9B05-3857343CD607}|PetSite.csproj|C:\\Users\\BAR\u0027S COMPUTER\\Desktop\\sela files\\PetSite\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12CF6F27-244B-4267-9B05-3857343CD607}|PetSite.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12CF6F27-244B-4267-9B05-3857343CD607}|PetSite.csproj|C:\\Users\\BAR\u0027S COMPUTER\\Desktop\\sela files\\PetSite\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12CF6F27-244B-4267-9B05-3857343CD607}|PetSite.csproj|solutionrelative:models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12CF6F27-244B-4267-9B05-3857343CD607}|PetSite.csproj|C:\\Users\\BAR\u0027S COMPUTER\\Desktop\\sela files\\PetSite\\models\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12CF6F27-244B-4267-9B05-3857343CD607}|PetSite.csproj|solutionrelative:models\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12CF6F27-244B-4267-9B05-3857343CD607}|PetSite.csproj|C:\\Users\\BAR\u0027S COMPUTER\\Desktop\\sela files\\PetSite\\data\\petcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12CF6F27-244B-4267-9B05-3857343CD607}|PetSite.csproj|solutionrelative:data\\petcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12CF6F27-244B-4267-9B05-3857343CD607}|PetSite.csproj|C:\\Users\\BAR\u0027S COMPUTER\\Desktop\\sela files\\PetSite\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12CF6F27-244B-4267-9B05-3857343CD607}|PetSite.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12CF6F27-244B-4267-9B05-3857343CD607}|PetSite.csproj|c:\\users\\bar\u0027s computer\\desktop\\sela files\\petsite\\controllers\\petcare.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12CF6F27-244B-4267-9B05-3857343CD607}|PetSite.csproj|solutionrelative:controllers\\petcare.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12CF6F27-244B-4267-9B05-3857343CD607}|PetSite.csproj|C:\\Users\\BAR\u0027S COMPUTER\\Desktop\\sela files\\PetSite\\models\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12CF6F27-244B-4267-9B05-3857343CD607}|PetSite.csproj|solutionrelative:models\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12CF6F27-244B-4267-9B05-3857343CD607}|PetSite.csproj|c:\\users\\bar\u0027s computer\\desktop\\sela files\\petsite\\views\\petcare\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{12CF6F27-244B-4267-9B05-3857343CD607}|PetSite.csproj|solutionrelative:views\\petcare\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12CF6F27-244B-4267-9B05-3857343CD607}|PetSite.csproj|c:\\users\\bar\u0027s computer\\desktop\\sela files\\petsite\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{12CF6F27-244B-4267-9B05-3857343CD607}|PetSite.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12CF6F27-244B-4267-9B05-3857343CD607}|PetSite.csproj|C:\\Users\\BAR\u0027S COMPUTER\\Desktop\\sela files\\PetSite\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{12CF6F27-244B-4267-9B05-3857343CD607}|PetSite.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12CF6F27-244B-4267-9B05-3857343CD607}|PetSite.csproj|C:\\Users\\BAR\u0027S COMPUTER\\Desktop\\sela files\\PetSite\\validation\\istextvalid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12CF6F27-244B-4267-9B05-3857343CD607}|PetSite.csproj|solutionrelative:validation\\istextvalid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/PetShopDB/True/SqlTable/dbo.Animals.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12CF6F27-244B-4267-9B05-3857343CD607}|PetSite.csproj|C:\\Users\\BAR\u0027S COMPUTER\\Desktop\\sela files\\PetSite\\views\\petcare\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{12CF6F27-244B-4267-9B05-3857343CD607}|PetSite.csproj|solutionrelative:views\\petcare\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12CF6F27-244B-4267-9B05-3857343CD607}|PetSite.csproj|C:\\Users\\BAR\u0027S COMPUTER\\Desktop\\sela files\\PetSite\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{12CF6F27-244B-4267-9B05-3857343CD607}|PetSite.csproj|solutionrelative:wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12CF6F27-244B-4267-9B05-3857343CD607}|PetSite.csproj|C:\\Users\\BAR\u0027S COMPUTER\\Desktop\\sela files\\PetSite\\views\\petcare\\editindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{12CF6F27-244B-4267-9B05-3857343CD607}|PetSite.csproj|solutionrelative:views\\petcare\\editindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\BAR\u0027S COMPUTER\\Desktop\\sela files\\PetSite\\Views\\PetCare\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\PetCare\\Index.cshtml",
+              "ToolTip": "C:\\Users\\BAR\u0027S COMPUTER\\Desktop\\sela files\\PetSite\\Views\\PetCare\\Index.cshtml",
+              "RelativeToolTip": "Views\\PetCare\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACsAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-20T17:56:16.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\BAR\u0027S COMPUTER\\Desktop\\sela files\\PetSite\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\BAR\u0027S COMPUTER\\Desktop\\sela files\\PetSite\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-20T17:56:04.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PetCare.cs",
+              "DocumentMoniker": "C:\\Users\\BAR\u0027S COMPUTER\\Desktop\\sela files\\PetSite\\Controllers\\PetCare.cs",
+              "RelativeDocumentMoniker": "Controllers\\PetCare.cs",
+              "ToolTip": "C:\\Users\\BAR\u0027S COMPUTER\\Desktop\\sela files\\PetSite\\Controllers\\PetCare.cs",
+              "RelativeToolTip": "Controllers\\PetCare.cs",
+              "ViewState": "AQIAAM8AAAAAAAAAAAAAAL0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-09-23T12:50:38.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AddNew.cshtml",
+              "DocumentMoniker": "C:\\Users\\BAR\u0027S COMPUTER\\Desktop\\sela files\\PetSite\\Views\\PetCare\\AddNew.cshtml",
+              "RelativeDocumentMoniker": "Views\\PetCare\\AddNew.cshtml",
+              "ToolTip": "C:\\Users\\BAR\u0027S COMPUTER\\Desktop\\sela files\\PetSite\\Views\\PetCare\\AddNew.cshtml",
+              "RelativeToolTip": "Views\\PetCare\\AddNew.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAACoAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2023-09-23T12:50:38.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "dbo.Animals [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/PetShopDB/True/SqlTable/dbo.Animals.sql",
+              "ToolTip": "dbo.Animals [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2023-09-25T15:35:17.015Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\BAR\u0027S COMPUTER\\Desktop\\sela files\\PetSite\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\BAR\u0027S COMPUTER\\Desktop\\sela files\\PetSite\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2023-09-25T15:29:19.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "site.js",
+              "DocumentMoniker": "C:\\Users\\BAR\u0027S COMPUTER\\Desktop\\sela files\\PetSite\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "wwwroot\\js\\site.js",
+              "ToolTip": "C:\\Users\\BAR\u0027S COMPUTER\\Desktop\\sela files\\PetSite\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "wwwroot\\js\\site.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2023-09-25T15:28:42.795Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "EditIndex.cshtml",
+              "DocumentMoniker": "C:\\Users\\BAR\u0027S COMPUTER\\Desktop\\sela files\\PetSite\\Views\\PetCare\\EditIndex.cshtml",
+              "RelativeDocumentMoniker": "Views\\PetCare\\EditIndex.cshtml",
+              "ToolTip": "C:\\Users\\BAR\u0027S COMPUTER\\Desktop\\sela files\\PetSite\\Views\\PetCare\\EditIndex.cshtml",
+              "RelativeToolTip": "Views\\PetCare\\EditIndex.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2023-09-23T15:37:49.539Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\BAR\u0027S COMPUTER\\Desktop\\sela files\\PetSite\\Views\\PetCare\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\PetCare\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\BAR\u0027S COMPUTER\\Desktop\\sela files\\PetSite\\Views\\PetCare\\Edit.cshtml",
+              "RelativeToolTip": "Views\\PetCare\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2023-09-23T15:37:49.012Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Admin.cshtml",
+              "DocumentMoniker": "C:\\Users\\BAR\u0027S COMPUTER\\Desktop\\sela files\\PetSite\\Views\\PetCare\\Admin.cshtml",
+              "RelativeDocumentMoniker": "Views\\PetCare\\Admin.cshtml",
+              "ToolTip": "C:\\Users\\BAR\u0027S COMPUTER\\Desktop\\sela files\\PetSite\\Views\\PetCare\\Admin.cshtml",
+              "RelativeToolTip": "Views\\PetCare\\Admin.cshtml",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2023-09-23T15:37:48.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\BAR\u0027S COMPUTER\\Desktop\\sela files\\PetSite\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\BAR\u0027S COMPUTER\\Desktop\\sela files\\PetSite\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-09-23T15:37:28.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\BAR\u0027S COMPUTER\\Desktop\\sela files\\PetSite\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\BAR\u0027S COMPUTER\\Desktop\\sela files\\PetSite\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2023-09-23T15:37:21.989Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PetContext.cs",
+              "DocumentMoniker": "C:\\Users\\BAR\u0027S COMPUTER\\Desktop\\sela files\\PetSite\\Data\\PetContext.cs",
+              "RelativeDocumentMoniker": "Data\\PetContext.cs",
+              "ToolTip": "C:\\Users\\BAR\u0027S COMPUTER\\Desktop\\sela files\\PetSite\\Data\\PetContext.cs",
+              "RelativeToolTip": "Data\\PetContext.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAABYAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-09-23T15:37:03.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Comment.cs",
+              "DocumentMoniker": "C:\\Users\\BAR\u0027S COMPUTER\\Desktop\\sela files\\PetSite\\Models\\Comment.cs",
+              "RelativeDocumentMoniker": "Models\\Comment.cs",
+              "ToolTip": "C:\\Users\\BAR\u0027S COMPUTER\\Desktop\\sela files\\PetSite\\Models\\Comment.cs",
+              "RelativeToolTip": "Models\\Comment.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-09-23T15:36:54.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\BAR\u0027S COMPUTER\\Desktop\\sela files\\PetSite\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "Models\\Category.cs",
+              "ToolTip": "C:\\Users\\BAR\u0027S COMPUTER\\Desktop\\sela files\\PetSite\\Models\\Category.cs",
+              "RelativeToolTip": "Models\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-09-23T15:36:48.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Animal.cs",
+              "DocumentMoniker": "C:\\Users\\BAR\u0027S COMPUTER\\Desktop\\sela files\\PetSite\\Models\\Animal.cs",
+              "RelativeDocumentMoniker": "Models\\Animal.cs",
+              "ToolTip": "C:\\Users\\BAR\u0027S COMPUTER\\Desktop\\sela files\\PetSite\\Models\\Animal.cs",
+              "RelativeToolTip": "Models\\Animal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-09-23T15:36:44.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IsTextvalid.cs",
+              "DocumentMoniker": "C:\\Users\\BAR\u0027S COMPUTER\\Desktop\\sela files\\PetSite\\Validation\\IsTextvalid.cs",
+              "RelativeDocumentMoniker": "Validation\\IsTextvalid.cs",
+              "ToolTip": "C:\\Users\\BAR\u0027S COMPUTER\\Desktop\\sela files\\PetSite\\Validation\\IsTextvalid.cs",
+              "RelativeToolTip": "Validation\\IsTextvalid.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-09-23T12:51:03.492Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\BAR\u0027S COMPUTER\\Desktop\\sela files\\PetSite\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\BAR\u0027S COMPUTER\\Desktop\\sela files\\PetSite\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-09-23T12:50:38.66Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

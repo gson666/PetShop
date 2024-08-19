@@ -1,0 +1,55 @@
+﻿@model PetSite.Models.Animal
+@await Html.PartialAsync("~/Views/Shared/_ValidationScriptsPartial.cshtml");
+
+    <h1>Adding a New Animal</h1>
+
+    <form asp-controller="PetCare" asp-action="AddNew" method="post" enctype="multipart/form-data">
+        @Html.AntiForgeryToken()
+        <div class="form-group">
+            <label asp-for="Name">Name</label>
+            <input asp-for="Name" id="Name" class="form-control" />
+            <span asp-validation-for="Name" class="text-danger"></span><br />
+        </div>
+
+<div class="form-group">
+    <label asp-for="CommentsList">Comments</label>
+    <textarea asp-for="CommentsList" id="CommentsList" class="form-control"></textarea>
+    <span asp-validation-for="CommentsList" class="text-danger"></span><br />
+</div>
+
+        <div class="form-group">
+            <label asp-for="Age">Age</label>
+            <input asp-for="Age" id="Age" class="form-control" />
+            <span asp-validation-for="Age" class="text-danger"></span> <br />
+        </div>
+
+    <div class="form-group">
+        <label asp-for="Description">Description</label>
+        <input asp-for="Description" id="Description" class="form-control" />
+        <span asp-validation-for="Description" class="text-danger"></span> <br />
+    </div>
+
+
+        <div class="form-group">
+            <label for="ImageUrl">Select an Image:</label>
+         <input type="file" asp-for="ImageUrl" id="ImageUrl" name="ImageUrl" class="form-control" accept=".png, .jpeg, .jpg" required /> 
+            <span asp-validation-for="ImageUrl" class="text-danger"></span><br />
+        </div>
+
+
+
+ <div class="form-group">
+    <label>Select category:</label>
+    <select asp-for="CategoryId" id="CategoryName" class="form-control">
+        <option value="0">Select category...</option>
+                @foreach (var category in (List<PetSite.Models.Category>)ViewBag.Categories)
+                {
+                <option value="@category.CategoryId">@category.Name</option>
+                }
+    </select>
+    <span asp-validation-for="CategoryId" class="text-danger"></span>
+</div>
+
+        <button type="submit" class="btn btn-primary">Create</button>
+    </form>
+

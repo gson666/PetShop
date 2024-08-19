@@ -1,0 +1,33 @@
+﻿@model PetSite.Models.Animal
+
+<h1>Edit Animal</h1>
+
+<form asp-controller="PetCare" asp-action="Update" method="post" enctype="multipart/form-data">
+    <div class="form-group">
+        <label asp-for="Name">Animal Name:</label>
+        <input asp-for="Name" class="form-control" required/>
+        <span asp-validation-for="Name" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Age">Age:</label>
+        <input asp-for="Age" class="form-control" required />
+        <span asp-validation-for="Age" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label for ="ImageUrl">Select Photo To update=></label>
+        <input type="file" asp-for="ImageUrl" id="ImageUrl" name="imageFile" class="form-control" accept=".png, .jpeg, .jpg" />
+        <span asp-validation-for="ImageUrl" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+       <label asp-for="Description">Description:</label>
+        <textarea asp-for="Description" class="form-control"required></textarea>
+        <span asp-validation-for="Description" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="AnimalCategory.Name">Animal Category:</label>
+        <input asp-for="AnimalCategory.Name" class="form-control" value="@Model.AnimalCategory.Name" readonly/>
+    </div>
+
+    <input type="hidden" asp-for="AnimalId" />
+    <button type="submit" class="btn btn-primary">Update</button>
+</form>

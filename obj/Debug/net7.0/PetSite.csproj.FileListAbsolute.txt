@@ -1,0 +1,379 @@
+C:\Users\BAR'S COMPUTER\source\repos\PetSite\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\BAR'S COMPUTER\source\repos\PetSite\bin\Debug\net7.0\appsettings.json
+C:\Users\BAR'S COMPUTER\source\repos\PetSite\bin\Debug\net7.0\PetSite.staticwebassets.runtime.json
+C:\Users\BAR'S COMPUTER\source\repos\PetSite\bin\Debug\net7.0\PetSite.exe
+C:\Users\BAR'S COMPUTER\source\repos\PetSite\bin\Debug\net7.0\PetSite.deps.json
+C:\Users\BAR'S COMPUTER\source\repos\PetSite\bin\Debug\net7.0\PetSite.runtimeconfig.json
+C:\Users\BAR'S COMPUTER\source\repos\PetSite\bin\Debug\net7.0\PetSite.dll
+C:\Users\BAR'S COMPUTER\source\repos\PetSite\bin\Debug\net7.0\PetSite.pdb
+C:\Users\BAR'S COMPUTER\source\repos\PetSite\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\BAR'S COMPUTER\source\repos\PetSite\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\BAR'S COMPUTER\source\repos\PetSite\bin\Debug\net7.0\Humanizer.dll
+C:\Users\BAR'S COMPUTER\source\repos\PetSite\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\BAR'S COMPUTER\source\repos\PetSite\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\BAR'S COMPUTER\source\repos\PetSite\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\BAR'S COMPUTER\source\repos\PetSite\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\BAR'S COMPUTER\source\repos\PetSite\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\BAR'S COMPUTER\source\repos\PetSite\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\BAR'S COMPUTER\source\repos\PetSite\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\BAR'S COMPUTER\source\repos\PetSite\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\BAR'S COMPUTER\source\repos\PetSite\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\BAR'S COMPUTER\source\repos\PetSite\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\BAR'S COMPUTER\source\repos\PetSite\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\BAR'S COMPUTER\source\repos\PetSite\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\BAR'S COMPUTER\source\repos\PetSite\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\BAR'S COMPUTER\source\repos\PetSite\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\BAR'S COMPUTER\source\repos\PetSite\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\BAR'S COMPUTER\source\repos\PetSite\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\BAR'S COMPUTER\source\repos\PetSite\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\BAR'S COMPUTER\source\repos\PetSite\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\BAR'S COMPUTER\source\repos\PetSite\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\BAR'S COMPUTER\source\repos\PetSite\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\BAR'S COMPUTER\source\repos\PetSite\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\BAR'S COMPUTER\source\repos\PetSite\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\BAR'S COMPUTER\source\repos\PetSite\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\BAR'S COMPUTER\source\repos\PetSite\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\BAR'S COMPUTER\source\repos\PetSite\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\BAR'S COMPUTER\source\repos\PetSite\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\BAR'S COMPUTER\source\repos\PetSite\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\BAR'S COMPUTER\source\repos\PetSite\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\BAR'S COMPUTER\source\repos\PetSite\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\BAR'S COMPUTER\source\repos\PetSite\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\BAR'S COMPUTER\source\repos\PetSite\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\BAR'S COMPUTER\source\repos\PetSite\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\BAR'S COMPUTER\source\repos\PetSite\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\BAR'S COMPUTER\source\repos\PetSite\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\BAR'S COMPUTER\source\repos\PetSite\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\BAR'S COMPUTER\source\repos\PetSite\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\BAR'S COMPUTER\source\repos\PetSite\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\BAR'S COMPUTER\source\repos\PetSite\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\BAR'S COMPUTER\source\repos\PetSite\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\BAR'S COMPUTER\source\repos\PetSite\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\BAR'S COMPUTER\source\repos\PetSite\obj\Debug\net7.0\PetSite.csproj.AssemblyReference.cache
+C:\Users\BAR'S COMPUTER\source\repos\PetSite\obj\Debug\net7.0\PetSite.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BAR'S COMPUTER\source\repos\PetSite\obj\Debug\net7.0\PetSite.AssemblyInfoInputs.cache
+C:\Users\BAR'S COMPUTER\source\repos\PetSite\obj\Debug\net7.0\PetSite.AssemblyInfo.cs
+C:\Users\BAR'S COMPUTER\source\repos\PetSite\obj\Debug\net7.0\PetSite.csproj.CoreCompileInputs.cache
+C:\Users\BAR'S COMPUTER\source\repos\PetSite\obj\Debug\net7.0\PetSite.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\BAR'S COMPUTER\source\repos\PetSite\obj\Debug\net7.0\PetSite.RazorAssemblyInfo.cache
+C:\Users\BAR'S COMPUTER\source\repos\PetSite\obj\Debug\net7.0\PetSite.RazorAssemblyInfo.cs
+C:\Users\BAR'S COMPUTER\source\repos\PetSite\obj\Debug\net7.0\staticwebassets\msbuild.PetSite.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\BAR'S COMPUTER\source\repos\PetSite\obj\Debug\net7.0\staticwebassets\msbuild.build.PetSite.props
+C:\Users\BAR'S COMPUTER\source\repos\PetSite\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.PetSite.props
+C:\Users\BAR'S COMPUTER\source\repos\PetSite\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.PetSite.props
+C:\Users\BAR'S COMPUTER\source\repos\PetSite\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\BAR'S COMPUTER\source\repos\PetSite\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\BAR'S COMPUTER\source\repos\PetSite\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\BAR'S COMPUTER\source\repos\PetSite\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\BAR'S COMPUTER\source\repos\PetSite\obj\Debug\net7.0\scopedcss\bundle\PetSite.styles.css
+C:\Users\BAR'S COMPUTER\source\repos\PetSite\obj\Debug\net7.0\scopedcss\projectbundle\PetSite.bundle.scp.css
+C:\Users\BAR'S COMPUTER\source\repos\PetSite\obj\Debug\net7.0\PetSite.csproj.CopyComplete
+C:\Users\BAR'S COMPUTER\source\repos\PetSite\obj\Debug\net7.0\PetSite.dll
+C:\Users\BAR'S COMPUTER\source\repos\PetSite\obj\Debug\net7.0\refint\PetSite.dll
+C:\Users\BAR'S COMPUTER\source\repos\PetSite\obj\Debug\net7.0\PetSite.pdb
+C:\Users\BAR'S COMPUTER\source\repos\PetSite\obj\Debug\net7.0\PetSite.genruntimeconfig.cache
+C:\Users\BAR'S COMPUTER\source\repos\PetSite\obj\Debug\net7.0\ref\PetSite.dll
+E:\PetSite\PetSite\bin\Debug\net7.0\appsettings.Development.json
+E:\PetSite\PetSite\bin\Debug\net7.0\appsettings.json
+E:\PetSite\PetSite\bin\Debug\net7.0\PetSite.staticwebassets.runtime.json
+E:\PetSite\PetSite\bin\Debug\net7.0\PetSite.exe
+E:\PetSite\PetSite\bin\Debug\net7.0\PetSite.deps.json
+E:\PetSite\PetSite\bin\Debug\net7.0\PetSite.runtimeconfig.json
+E:\PetSite\PetSite\bin\Debug\net7.0\PetSite.dll
+E:\PetSite\PetSite\bin\Debug\net7.0\PetSite.pdb
+E:\PetSite\PetSite\bin\Debug\net7.0\Azure.Core.dll
+E:\PetSite\PetSite\bin\Debug\net7.0\Azure.Identity.dll
+E:\PetSite\PetSite\bin\Debug\net7.0\Humanizer.dll
+E:\PetSite\PetSite\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\PetSite\PetSite\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+E:\PetSite\PetSite\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+E:\PetSite\PetSite\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\PetSite\PetSite\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\PetSite\PetSite\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\PetSite\PetSite\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\PetSite\PetSite\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+E:\PetSite\PetSite\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+E:\PetSite\PetSite\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\PetSite\PetSite\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+E:\PetSite\PetSite\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\PetSite\PetSite\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+E:\PetSite\PetSite\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+E:\PetSite\PetSite\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\PetSite\PetSite\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+E:\PetSite\PetSite\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+E:\PetSite\PetSite\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+E:\PetSite\PetSite\bin\Debug\net7.0\Mono.TextTemplating.dll
+E:\PetSite\PetSite\bin\Debug\net7.0\System.CodeDom.dll
+E:\PetSite\PetSite\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+E:\PetSite\PetSite\bin\Debug\net7.0\System.Drawing.Common.dll
+E:\PetSite\PetSite\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+E:\PetSite\PetSite\bin\Debug\net7.0\System.Memory.Data.dll
+E:\PetSite\PetSite\bin\Debug\net7.0\System.Runtime.Caching.dll
+E:\PetSite\PetSite\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+E:\PetSite\PetSite\bin\Debug\net7.0\System.Security.Permissions.dll
+E:\PetSite\PetSite\bin\Debug\net7.0\System.Windows.Extensions.dll
+E:\PetSite\PetSite\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\PetSite\PetSite\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\PetSite\PetSite\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\PetSite\PetSite\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\PetSite\PetSite\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\PetSite\PetSite\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\PetSite\PetSite\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\PetSite\PetSite\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\PetSite\PetSite\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\PetSite\PetSite\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\PetSite\PetSite\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\PetSite\PetSite\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\PetSite\PetSite\obj\Debug\net7.0\PetSite.csproj.AssemblyReference.cache
+E:\PetSite\PetSite\obj\Debug\net7.0\PetSite.GeneratedMSBuildEditorConfig.editorconfig
+E:\PetSite\PetSite\obj\Debug\net7.0\PetSite.AssemblyInfoInputs.cache
+E:\PetSite\PetSite\obj\Debug\net7.0\PetSite.AssemblyInfo.cs
+E:\PetSite\PetSite\obj\Debug\net7.0\PetSite.csproj.CoreCompileInputs.cache
+E:\PetSite\PetSite\obj\Debug\net7.0\PetSite.MvcApplicationPartsAssemblyInfo.cache
+E:\PetSite\PetSite\obj\Debug\net7.0\PetSite.RazorAssemblyInfo.cache
+E:\PetSite\PetSite\obj\Debug\net7.0\PetSite.RazorAssemblyInfo.cs
+E:\PetSite\PetSite\obj\Debug\net7.0\staticwebassets\msbuild.PetSite.Microsoft.AspNetCore.StaticWebAssets.props
+E:\PetSite\PetSite\obj\Debug\net7.0\staticwebassets\msbuild.build.PetSite.props
+E:\PetSite\PetSite\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.PetSite.props
+E:\PetSite\PetSite\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.PetSite.props
+E:\PetSite\PetSite\obj\Debug\net7.0\staticwebassets.pack.json
+E:\PetSite\PetSite\obj\Debug\net7.0\staticwebassets.build.json
+E:\PetSite\PetSite\obj\Debug\net7.0\staticwebassets.development.json
+E:\PetSite\PetSite\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\PetSite\PetSite\obj\Debug\net7.0\scopedcss\bundle\PetSite.styles.css
+E:\PetSite\PetSite\obj\Debug\net7.0\scopedcss\projectbundle\PetSite.bundle.scp.css
+E:\PetSite\PetSite\obj\Debug\net7.0\PetSite.csproj.CopyComplete
+E:\PetSite\PetSite\obj\Debug\net7.0\PetSite.dll
+E:\PetSite\PetSite\obj\Debug\net7.0\refint\PetSite.dll
+E:\PetSite\PetSite\obj\Debug\net7.0\PetSite.pdb
+E:\PetSite\PetSite\obj\Debug\net7.0\PetSite.genruntimeconfig.cache
+E:\PetSite\PetSite\obj\Debug\net7.0\ref\PetSite.dll
+D:\PetSite\PetSite\bin\Debug\net7.0\appsettings.Development.json
+D:\PetSite\PetSite\bin\Debug\net7.0\appsettings.json
+D:\PetSite\PetSite\bin\Debug\net7.0\PetSite.staticwebassets.runtime.json
+D:\PetSite\PetSite\bin\Debug\net7.0\PetSite.exe
+D:\PetSite\PetSite\bin\Debug\net7.0\PetSite.deps.json
+D:\PetSite\PetSite\bin\Debug\net7.0\PetSite.runtimeconfig.json
+D:\PetSite\PetSite\bin\Debug\net7.0\PetSite.dll
+D:\PetSite\PetSite\bin\Debug\net7.0\PetSite.pdb
+D:\PetSite\PetSite\bin\Debug\net7.0\Azure.Core.dll
+D:\PetSite\PetSite\bin\Debug\net7.0\Azure.Identity.dll
+D:\PetSite\PetSite\bin\Debug\net7.0\Humanizer.dll
+D:\PetSite\PetSite\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\PetSite\PetSite\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\PetSite\PetSite\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\PetSite\PetSite\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\PetSite\PetSite\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\PetSite\PetSite\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\PetSite\PetSite\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\PetSite\PetSite\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\PetSite\PetSite\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\PetSite\PetSite\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\PetSite\PetSite\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\PetSite\PetSite\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\PetSite\PetSite\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\PetSite\PetSite\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\PetSite\PetSite\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\PetSite\PetSite\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\PetSite\PetSite\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\PetSite\PetSite\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\PetSite\PetSite\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\PetSite\PetSite\bin\Debug\net7.0\System.CodeDom.dll
+D:\PetSite\PetSite\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\PetSite\PetSite\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\PetSite\PetSite\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\PetSite\PetSite\bin\Debug\net7.0\System.Memory.Data.dll
+D:\PetSite\PetSite\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\PetSite\PetSite\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\PetSite\PetSite\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\PetSite\PetSite\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\PetSite\PetSite\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\PetSite\PetSite\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\PetSite\PetSite\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\PetSite\PetSite\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\PetSite\PetSite\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\PetSite\PetSite\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\PetSite\PetSite\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\PetSite\PetSite\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\PetSite\PetSite\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\PetSite\PetSite\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\PetSite\PetSite\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\PetSite\PetSite\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\PetSite\PetSite\obj\Debug\net7.0\PetSite.csproj.AssemblyReference.cache
+D:\PetSite\PetSite\obj\Debug\net7.0\PetSite.GeneratedMSBuildEditorConfig.editorconfig
+D:\PetSite\PetSite\obj\Debug\net7.0\PetSite.AssemblyInfoInputs.cache
+D:\PetSite\PetSite\obj\Debug\net7.0\PetSite.AssemblyInfo.cs
+D:\PetSite\PetSite\obj\Debug\net7.0\PetSite.csproj.CoreCompileInputs.cache
+D:\PetSite\PetSite\obj\Debug\net7.0\PetSite.MvcApplicationPartsAssemblyInfo.cache
+D:\PetSite\PetSite\obj\Debug\net7.0\PetSite.RazorAssemblyInfo.cache
+D:\PetSite\PetSite\obj\Debug\net7.0\PetSite.RazorAssemblyInfo.cs
+D:\PetSite\PetSite\obj\Debug\net7.0\staticwebassets\msbuild.PetSite.Microsoft.AspNetCore.StaticWebAssets.props
+D:\PetSite\PetSite\obj\Debug\net7.0\staticwebassets\msbuild.build.PetSite.props
+D:\PetSite\PetSite\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.PetSite.props
+D:\PetSite\PetSite\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.PetSite.props
+D:\PetSite\PetSite\obj\Debug\net7.0\staticwebassets.pack.json
+D:\PetSite\PetSite\obj\Debug\net7.0\staticwebassets.build.json
+D:\PetSite\PetSite\obj\Debug\net7.0\staticwebassets.development.json
+D:\PetSite\PetSite\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\PetSite\PetSite\obj\Debug\net7.0\scopedcss\bundle\PetSite.styles.css
+D:\PetSite\PetSite\obj\Debug\net7.0\scopedcss\projectbundle\PetSite.bundle.scp.css
+D:\PetSite\PetSite\obj\Debug\net7.0\PetSite.csproj.CopyComplete
+D:\PetSite\PetSite\obj\Debug\net7.0\PetSite.dll
+D:\PetSite\PetSite\obj\Debug\net7.0\refint\PetSite.dll
+D:\PetSite\PetSite\obj\Debug\net7.0\PetSite.pdb
+D:\PetSite\PetSite\obj\Debug\net7.0\PetSite.genruntimeconfig.cache
+D:\PetSite\PetSite\obj\Debug\net7.0\ref\PetSite.dll
+C:\Users\USER\Desktop\PetSite\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\USER\Desktop\PetSite\bin\Debug\net7.0\appsettings.json
+C:\Users\USER\Desktop\PetSite\bin\Debug\net7.0\PetSite.staticwebassets.runtime.json
+C:\Users\USER\Desktop\PetSite\bin\Debug\net7.0\PetSite.exe
+C:\Users\USER\Desktop\PetSite\bin\Debug\net7.0\PetSite.deps.json
+C:\Users\USER\Desktop\PetSite\bin\Debug\net7.0\PetSite.runtimeconfig.json
+C:\Users\USER\Desktop\PetSite\bin\Debug\net7.0\PetSite.dll
+C:\Users\USER\Desktop\PetSite\bin\Debug\net7.0\PetSite.pdb
+C:\Users\USER\Desktop\PetSite\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\USER\Desktop\PetSite\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\USER\Desktop\PetSite\bin\Debug\net7.0\Humanizer.dll
+C:\Users\USER\Desktop\PetSite\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\USER\Desktop\PetSite\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\USER\Desktop\PetSite\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\USER\Desktop\PetSite\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\USER\Desktop\PetSite\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\USER\Desktop\PetSite\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\USER\Desktop\PetSite\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\USER\Desktop\PetSite\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\USER\Desktop\PetSite\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\USER\Desktop\PetSite\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\USER\Desktop\PetSite\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\USER\Desktop\PetSite\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\USER\Desktop\PetSite\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\USER\Desktop\PetSite\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\USER\Desktop\PetSite\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\USER\Desktop\PetSite\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\USER\Desktop\PetSite\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\USER\Desktop\PetSite\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\USER\Desktop\PetSite\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\USER\Desktop\PetSite\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\USER\Desktop\PetSite\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\USER\Desktop\PetSite\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\USER\Desktop\PetSite\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\USER\Desktop\PetSite\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\USER\Desktop\PetSite\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\USER\Desktop\PetSite\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\USER\Desktop\PetSite\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\USER\Desktop\PetSite\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\USER\Desktop\PetSite\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\USER\Desktop\PetSite\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\USER\Desktop\PetSite\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\USER\Desktop\PetSite\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\USER\Desktop\PetSite\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\USER\Desktop\PetSite\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\USER\Desktop\PetSite\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\USER\Desktop\PetSite\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\USER\Desktop\PetSite\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\USER\Desktop\PetSite\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\USER\Desktop\PetSite\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\USER\Desktop\PetSite\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\USER\Desktop\PetSite\obj\Debug\net7.0\PetSite.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\PetSite\obj\Debug\net7.0\PetSite.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\PetSite\obj\Debug\net7.0\PetSite.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\PetSite\obj\Debug\net7.0\PetSite.AssemblyInfo.cs
+C:\Users\USER\Desktop\PetSite\obj\Debug\net7.0\PetSite.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\PetSite\obj\Debug\net7.0\PetSite.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\USER\Desktop\PetSite\obj\Debug\net7.0\PetSite.RazorAssemblyInfo.cache
+C:\Users\USER\Desktop\PetSite\obj\Debug\net7.0\PetSite.RazorAssemblyInfo.cs
+C:\Users\USER\Desktop\PetSite\obj\Debug\net7.0\staticwebassets\msbuild.PetSite.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\USER\Desktop\PetSite\obj\Debug\net7.0\staticwebassets\msbuild.build.PetSite.props
+C:\Users\USER\Desktop\PetSite\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.PetSite.props
+C:\Users\USER\Desktop\PetSite\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.PetSite.props
+C:\Users\USER\Desktop\PetSite\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\USER\Desktop\PetSite\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\USER\Desktop\PetSite\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\USER\Desktop\PetSite\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\USER\Desktop\PetSite\obj\Debug\net7.0\scopedcss\bundle\PetSite.styles.css
+C:\Users\USER\Desktop\PetSite\obj\Debug\net7.0\scopedcss\projectbundle\PetSite.bundle.scp.css
+C:\Users\USER\Desktop\PetSite\obj\Debug\net7.0\PetSite.csproj.CopyComplete
+C:\Users\USER\Desktop\PetSite\obj\Debug\net7.0\PetSite.dll
+C:\Users\USER\Desktop\PetSite\obj\Debug\net7.0\refint\PetSite.dll
+C:\Users\USER\Desktop\PetSite\obj\Debug\net7.0\PetSite.pdb
+C:\Users\USER\Desktop\PetSite\obj\Debug\net7.0\PetSite.genruntimeconfig.cache
+C:\Users\USER\Desktop\PetSite\obj\Debug\net7.0\ref\PetSite.dll
+C:\Users\USER\Desktop\PetSite\bin\Debug\net7.0\Castle.Core.dll
+C:\Users\USER\Desktop\PetSite\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\BAR'S COMPUTER\Desktop\sela files\PetSite\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\BAR'S COMPUTER\Desktop\sela files\PetSite\bin\Debug\net7.0\appsettings.json
+C:\Users\BAR'S COMPUTER\Desktop\sela files\PetSite\bin\Debug\net7.0\PetSite.staticwebassets.runtime.json
+C:\Users\BAR'S COMPUTER\Desktop\sela files\PetSite\bin\Debug\net7.0\PetSite.exe
+C:\Users\BAR'S COMPUTER\Desktop\sela files\PetSite\bin\Debug\net7.0\PetSite.deps.json
+C:\Users\BAR'S COMPUTER\Desktop\sela files\PetSite\bin\Debug\net7.0\PetSite.runtimeconfig.json
+C:\Users\BAR'S COMPUTER\Desktop\sela files\PetSite\bin\Debug\net7.0\PetSite.dll
+C:\Users\BAR'S COMPUTER\Desktop\sela files\PetSite\bin\Debug\net7.0\PetSite.pdb
+C:\Users\BAR'S COMPUTER\Desktop\sela files\PetSite\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\BAR'S COMPUTER\Desktop\sela files\PetSite\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\BAR'S COMPUTER\Desktop\sela files\PetSite\bin\Debug\net7.0\Castle.Core.dll
+C:\Users\BAR'S COMPUTER\Desktop\sela files\PetSite\bin\Debug\net7.0\Humanizer.dll
+C:\Users\BAR'S COMPUTER\Desktop\sela files\PetSite\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\BAR'S COMPUTER\Desktop\sela files\PetSite\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\BAR'S COMPUTER\Desktop\sela files\PetSite\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\BAR'S COMPUTER\Desktop\sela files\PetSite\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\BAR'S COMPUTER\Desktop\sela files\PetSite\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\BAR'S COMPUTER\Desktop\sela files\PetSite\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\BAR'S COMPUTER\Desktop\sela files\PetSite\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\BAR'S COMPUTER\Desktop\sela files\PetSite\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\BAR'S COMPUTER\Desktop\sela files\PetSite\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\BAR'S COMPUTER\Desktop\sela files\PetSite\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\BAR'S COMPUTER\Desktop\sela files\PetSite\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\BAR'S COMPUTER\Desktop\sela files\PetSite\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\BAR'S COMPUTER\Desktop\sela files\PetSite\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\BAR'S COMPUTER\Desktop\sela files\PetSite\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\BAR'S COMPUTER\Desktop\sela files\PetSite\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\BAR'S COMPUTER\Desktop\sela files\PetSite\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\BAR'S COMPUTER\Desktop\sela files\PetSite\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\BAR'S COMPUTER\Desktop\sela files\PetSite\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\BAR'S COMPUTER\Desktop\sela files\PetSite\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\BAR'S COMPUTER\Desktop\sela files\PetSite\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\BAR'S COMPUTER\Desktop\sela files\PetSite\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\BAR'S COMPUTER\Desktop\sela files\PetSite\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\BAR'S COMPUTER\Desktop\sela files\PetSite\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\BAR'S COMPUTER\Desktop\sela files\PetSite\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\BAR'S COMPUTER\Desktop\sela files\PetSite\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\BAR'S COMPUTER\Desktop\sela files\PetSite\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\BAR'S COMPUTER\Desktop\sela files\PetSite\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\BAR'S COMPUTER\Desktop\sela files\PetSite\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\BAR'S COMPUTER\Desktop\sela files\PetSite\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\BAR'S COMPUTER\Desktop\sela files\PetSite\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\BAR'S COMPUTER\Desktop\sela files\PetSite\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\BAR'S COMPUTER\Desktop\sela files\PetSite\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\BAR'S COMPUTER\Desktop\sela files\PetSite\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\BAR'S COMPUTER\Desktop\sela files\PetSite\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\BAR'S COMPUTER\Desktop\sela files\PetSite\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\BAR'S COMPUTER\Desktop\sela files\PetSite\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\BAR'S COMPUTER\Desktop\sela files\PetSite\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\BAR'S COMPUTER\Desktop\sela files\PetSite\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\BAR'S COMPUTER\Desktop\sela files\PetSite\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\BAR'S COMPUTER\Desktop\sela files\PetSite\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\BAR'S COMPUTER\Desktop\sela files\PetSite\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\BAR'S COMPUTER\Desktop\sela files\PetSite\obj\Debug\net7.0\PetSite.csproj.AssemblyReference.cache
+C:\Users\BAR'S COMPUTER\Desktop\sela files\PetSite\obj\Debug\net7.0\PetSite.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BAR'S COMPUTER\Desktop\sela files\PetSite\obj\Debug\net7.0\PetSite.AssemblyInfoInputs.cache
+C:\Users\BAR'S COMPUTER\Desktop\sela files\PetSite\obj\Debug\net7.0\PetSite.AssemblyInfo.cs
+C:\Users\BAR'S COMPUTER\Desktop\sela files\PetSite\obj\Debug\net7.0\PetSite.csproj.CoreCompileInputs.cache
+C:\Users\BAR'S COMPUTER\Desktop\sela files\PetSite\obj\Debug\net7.0\PetSite.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\BAR'S COMPUTER\Desktop\sela files\PetSite\obj\Debug\net7.0\PetSite.RazorAssemblyInfo.cache
+C:\Users\BAR'S COMPUTER\Desktop\sela files\PetSite\obj\Debug\net7.0\PetSite.RazorAssemblyInfo.cs
+C:\Users\BAR'S COMPUTER\Desktop\sela files\PetSite\obj\Debug\net7.0\staticwebassets\msbuild.PetSite.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\BAR'S COMPUTER\Desktop\sela files\PetSite\obj\Debug\net7.0\staticwebassets\msbuild.build.PetSite.props
+C:\Users\BAR'S COMPUTER\Desktop\sela files\PetSite\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.PetSite.props
+C:\Users\BAR'S COMPUTER\Desktop\sela files\PetSite\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.PetSite.props
+C:\Users\BAR'S COMPUTER\Desktop\sela files\PetSite\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\BAR'S COMPUTER\Desktop\sela files\PetSite\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\BAR'S COMPUTER\Desktop\sela files\PetSite\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\BAR'S COMPUTER\Desktop\sela files\PetSite\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\BAR'S COMPUTER\Desktop\sela files\PetSite\obj\Debug\net7.0\scopedcss\bundle\PetSite.styles.css
+C:\Users\BAR'S COMPUTER\Desktop\sela files\PetSite\obj\Debug\net7.0\scopedcss\projectbundle\PetSite.bundle.scp.css
+C:\Users\BAR'S COMPUTER\Desktop\sela files\PetSite\obj\Debug\net7.0\PetSite.dll
+C:\Users\BAR'S COMPUTER\Desktop\sela files\PetSite\obj\Debug\net7.0\refint\PetSite.dll
+C:\Users\BAR'S COMPUTER\Desktop\sela files\PetSite\obj\Debug\net7.0\PetSite.pdb
+C:\Users\BAR'S COMPUTER\Desktop\sela files\PetSite\obj\Debug\net7.0\PetSite.genruntimeconfig.cache
+C:\Users\BAR'S COMPUTER\Desktop\sela files\PetSite\obj\Debug\net7.0\ref\PetSite.dll
+C:\Users\BAR'S COMPUTER\Desktop\sela files\PetSite\obj\Debug\net7.0\PetSite.csproj.Up2Date

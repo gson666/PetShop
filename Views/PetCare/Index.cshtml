@@ -1,0 +1,48 @@
+﻿@model List<PetSite.Models.Animal>
+
+
+<h1>The best pet shop in town</h1>
+<p style="left:auto">the two most highly rated pets today are:</p>
+<title>Chart</title>
+<style>
+    table {
+        width: 100%;
+        border-collapse: collapse;
+    }
+
+    th, td {
+        border: 1px solid #dddddd;
+        text-align: left;
+        padding: 8px;
+    }
+
+    th {
+        background-color: #f2f2f2;
+    }
+
+    img {
+        max-width: 100px; 
+    }
+</style>
+    <table>
+        <thead>
+            <tr>
+                <th></th>
+                <th>Name</th>
+                <th>Description</th>
+                <th>Comments</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach(var animal in Model)
+            {
+                <tr>
+                    <td><img src="@animal.ImageUrl" alt="@animal.Name" /></td>
+                    <td>@animal.Name</td>
+                    <td>@animal.Description</td>
+                    <td>@animal.CommentsList.Count</td>
+                </tr>
+            }
+
+        </tbody>
+    </table>

@@ -1,0 +1,73 @@
+﻿@model PetSite.Models.Animal
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+
+<h1>The Best Pet Shop In Town</h1>
+<style>
+    table {
+        width: 100%;
+        border-collapse: collapse;
+    }
+
+    th, td {
+        border: 1px solid #dddddd;
+        text-align: left;
+        padding: 8px;
+    }
+
+    th {
+        background-color: #f2f2f2;
+    }
+
+    img {
+        max-width: 100px;
+    }
+</style>
+
+
+    <table>
+        <tr>
+            <td>Name</td>
+            <td>@Model.Name</td>
+        </tr>
+        <tr>
+            <td>Age</td>
+            <td>@Model.Age</td>
+        </tr>
+        <tr>
+            <td>Description</td>
+            <td>@Model.Description</td>
+        </tr>
+        <tr>
+            <td>Category Name</td>
+            <td>@ViewBag.CategoryName</td>
+        </tr>
+    </table>
+    <table>
+        <thead>
+            <tr>
+                <th>Comments on this animal</th>
+            </tr>
+        </thead>
+        <tbody id="comments-section">
+             @foreach(var comment in Model.CommentsList)
+        {
+            <tr>
+                <td>@comment.CommentText</td>
+            </tr>
+        }
+        </tbody>
+    </table>
+   <form id="comment-form" asp-controller="PetCare" asp-action="Animal" method="post" enctype="multipart/form-data">
+        <div class="form-group">
+        <label for="CommentText">Comment:</label>
+         <textarea id="CommentText" name="CommentText" class="form-control"></textarea>
+    </div>
+        <input type="hidden" asp-for="AnimalId" value="@Model.AnimalId" />
+    <div class="form-group">
+        <button type="submit" class="btn btn-primary">Sumbit comment</button>
+    </div>
+    </form>
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+
+
+
